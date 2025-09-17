@@ -1,12 +1,10 @@
-Below is a revised non-time-based roadmap for mastering Data Structures and Algorithms (DSA) on LeetCode, progressing from "Human" to "God" with the goal of solving any LeetCode problem. The roadmap follows your specified order of topics: **arrays & strings, hashing (maps and sets), sliding window, stack, binary search, linked list, trees, heap & priority queue, backtracking, tries, graphs, advanced graphs, 1-D dynamic programming, 2-D dynamic programming, greedy, intervals, math & geometry, bit manipulation**. Each node includes specific, actionable accomplishments with a comma-separated list of well-known or company-tagged/NeetCode-tagged LeetCode problems (ensuring all 20+ problems per topic are explicitly listed). The roadmap emphasizes learning C++ via [learncpp.com](https://www.learncpp.com/), foundational concepts like time/space complexity, and extensive problem-solving per topic to build expertise. It remains focused on DSA mastery, avoiding extraneous topics.
-
----
-
 ### Roadmap: From "Human" to "God" in DSA and LeetCode
 
 #### Node 1: Human
+
 **Description**: Build a foundation in C++ and DSA prerequisites.
 **Actionable Accomplishments**:
+
 - **Learn C++ Basics**: Complete [learncpp.com](https://www.learncpp.com/) up to Chapter 8 (variables, functions, loops, conditionals, pointers, basic I/O).
 - **Understand Time and Space Complexity**: Study Big-O notation (O(1), O(n), O(n²), O(log n), O(n log n)) via NeetCode’s “Big-O Notation” video or GeeksforGeeks.
 - **Set Up Coding Environment**: Install g++, VS Code, and create a LeetCode account.
@@ -17,8 +15,10 @@ Below is a revised non-time-based roadmap for mastering Data Structures and Algo
 ---
 
 #### Node 2: Novice Coder
+
 **Description**: Master arrays & strings and hashing, with extensive problem-solving.
 **Actionable Accomplishments**:
+
 - **Learn Arrays & Strings**: Study array operations (traversal, insertion, deletion), string manipulation (substring, concatenation), and 1D/2D arrays via NeetCode or [learncpp.com](https://www.learncpp.com/).
 - **Practice Arrays & Strings** (20 problems): LeetCode #1: Two Sum (Amazon), #15: 3Sum (Amazon), #121: Best Time to Buy and Sell Stock (NeetCode), #217: Contains Duplicate (Microsoft), #242: Valid Anagram (Amazon), #125: Valid Palindrome (Facebook), #49: Group Anagrams (Google), #238: Product of Array Except Self (NeetCode), #152: Maximum Product Subarray (Amazon), #48: Rotate Image (Microsoft), #73: Set Matrix Zeroes (Google), #189: Rotate Array (Facebook), #118: Pascal’s Triangle (Amazon), #36: Valid Sudoku (NeetCode), #228: Summary Ranges (Google), #169: Majority Element (Amazon), #229: Majority Element II (NeetCode), #350: Intersection of Two Arrays II (Facebook), #268: Missing Number (Microsoft), #88: Merge Sorted Array (Microsoft).
 - **Learn Hashing (Maps and Sets)**: Study hash maps, hash sets, and collision handling via NeetCode or GeeksforGeeks.
@@ -29,8 +29,10 @@ Below is a revised non-time-based roadmap for mastering Data Structures and Algo
 ---
 
 #### Node 3: Intermediate Coder
+
 **Description**: Master sliding window, stack, and binary search with focused practice.
 **Actionable Accomplishments**:
+
 - **Learn Sliding Window**: Study fixed and variable sliding window techniques via NeetCode.
 - **Practice Sliding Window** (20 problems): LeetCode #76: Minimum Window Substring (NeetCode), #424: Longest Repeating Character Replacement (Amazon), #438: Find All Anagrams in a String (Facebook), #567: Permutation in String (Google), #239: Sliding Window Maximum (Amazon), #209: Minimum Size Subarray Sum (NeetCode), #904: Fruit Into Baskets (Amazon), #1004: Max Consecutive Ones III (NeetCode), #1456: Maximum Number of Vowels in a Substring of Given Length (Google), #643: Maximum Average Subarray I (Facebook), #1838: Frequency of the Most Frequent Element (NeetCode), #159: Longest Substring with At Most Two Distinct Characters (Amazon), #340: Longest Substring with At Most K Distinct Characters (Google), #992: Subarrays with K Different Integers (NeetCode), #1208: Get Equal Substrings Within Budget (Amazon), #1498: Number of Subsequences That Satisfy the Given Sum Condition (Google), #1658: Minimum Operations to Reduce X to Zero (NeetCode), #1358: Number of Substrings Containing All Three Characters (Amazon), #1234: Replace the Substring for Balanced String (Google), #1876: Substrings of Size Three with Distinct Characters (Facebook).
 - **Learn Stack**: Study stack operations (push, pop, LIFO) and applications via NeetCode or GeeksforGeeks.
@@ -43,8 +45,10 @@ Below is a revised non-time-based roadmap for mastering Data Structures and Algo
 ---
 
 #### Node 4: Advanced Human
+
 **Description**: Master linked lists and trees with extensive practice.
 **Actionable Accomplishments**:
+
 - **Learn Linked Lists**: Study singly/doubly linked lists, operations (reverse, merge, cycle detection) via NeetCode or [learncpp.com](https://www.learncpp.com/).
 - **Practice Linked Lists** (20 problems): LeetCode #206: Reverse Linked List (Microsoft), #141: Linked List Cycle (Amazon), #21: Merge Two Sorted Lists (Amazon), #19: Remove Nth Node From End of List (Facebook), #143: Reorder List (NeetCode), #23: Merge k Sorted Lists (Amazon), #25: Reverse Nodes in k-Group (Google), #234: Palindrome Linked List (Facebook), #445: Add Two Numbers II (Amazon), #138: Copy List with Random Pointer (Microsoft), #61: Rotate List (NeetCode), #86: Partition List (Amazon), #92: Reverse Linked List II (Google), #82: Remove Duplicates from Sorted List II (Microsoft), #83: Remove Duplicates from Sorted List (Facebook), #1171: Remove Zero Sum Consecutive Nodes from Linked List (Amazon), #725: Split Linked List in Parts (Google), #328: Odd Even Linked List (NeetCode), #708: Insert into a Sorted Circular Linked List (Amazon), #430: Flatten a Multilevel Doubly Linked List (Microsoft).
 - **Learn Trees**: Study binary trees, binary search trees (BSTs), and traversals (inorder, preorder, postorder) via NeetCode.
@@ -55,8 +59,10 @@ Below is a revised non-time-based roadmap for mastering Data Structures and Algo
 ---
 
 #### Node 5: DSA Specialist
+
 **Description**: Master heap & priority queue, backtracking, and tries.
 **Actionable Accomplishments**:
+
 - **Learn Heap & Priority Queue**: Study min/max heaps and priority queue implementations via NeetCode or GeeksforGeeks.
 - **Practice Heap & Priority Queue** (20 problems): LeetCode #215: Kth Largest Element in an Array (Amazon), #295: Find Median from Data Stream (Google), #703: Kth Largest Element in a Stream (NeetCode), #347: Top K Frequent Elements (Amazon), #692: Top K Frequent Words (Google), #23: Merge k Sorted Lists (Amazon), #378: Kth Smallest Element in a Sorted Matrix (NeetCode), #373: Find K Pairs with Smallest Sums (Google), #407: Trapping Rain Water II (Amazon), #502: IPO (Google), #621: Task Scheduler (Amazon), #767: Reorganize String (NeetCode), #855: Exam Room (Google), #857: Minimum Cost to Hire K Workers (Amazon), #973: K Closest Points to Origin (Facebook), #1046: Last Stone Weight (Amazon), #1642: Furthest Building You Can Reach (NeetCode), #1834: Single-Threaded CPU (Amazon), #1882: Process Tasks Using Servers (Google), #218: The Skyline Problem (NeetCode).
 - **Learn Backtracking**: Study backtracking for combinatorial problems via NeetCode.
@@ -69,8 +75,10 @@ Below is a revised non-time-based roadmap for mastering Data Structures and Algo
 ---
 
 #### Node 6: DSA Master
+
 **Description**: Master graphs, advanced graphs, and dynamic programming (1-D and 2-D).
 **Actionable Accomplishments**:
+
 - **Learn Graphs**: Study graph representations (adjacency list/matrix), DFS, BFS, and basic algorithms (shortest path) via NeetCode.
 - **Practice Graphs** (20 problems): LeetCode #200: Number of Islands (Amazon), #207: Course Schedule (NeetCode), #210: Course Schedule II (Amazon), #547: Number of Provinces (Google), #733: Flood Fill (Google), #417: Pacific Atlantic Water Flow (Amazon), #684: Redundant Connection (NeetCode), #721: Accounts Merge (Google), #785: Is Graph Bipartite? (Amazon), #802: Find Eventual Safe States (NeetCode), #841: Keys and Rooms (Google), #886: Possible Bipartition (Amazon), #990: Satisfiability of Equality Equations (NeetCode), #1042: Flower Planting With No Adjacent (Google), #1135: Connecting Cities With Minimum Cost (Amazon), #1161: Maximum Level Sum of a Binary Tree (NeetCode), #1254: Number of Closed Islands (Amazon), #1302: Deepest Leaves Sum (Google), #1334: Find the City With the Smallest Number of Neighbors at a Threshold Distance (NeetCode), #1462: Course Schedule IV (Amazon).
 - **Learn Advanced Graphs**: Study Dijkstra’s, Kruskal’s, Prim’s, topological sort, and union-find via NeetCode or Competitive Programmer’s Handbook.
@@ -85,8 +93,10 @@ Below is a revised non-time-based roadmap for mastering Data Structures and Algo
 ---
 
 #### Node 7: LeetCode Elite
+
 **Description**: Master greedy, intervals, math & geometry, and bit manipulation; refine speed and accuracy.
 **Actionable Accomplishments**:
+
 - **Learn Greedy**: Study greedy algorithms and when to apply them (e.g., interval scheduling) via NeetCode.
 - **Practice Greedy** (20 problems): LeetCode #55: Jump Game (Amazon), #45: Jump Game II (NeetCode), #134: Gas Station (Google), #435: Non-overlapping Intervals (NeetCode), #452: Minimum Number of Arrows to Burst Balloons (Google), #605: Can Place Flowers (Amazon), #621: Task Scheduler (Amazon), #763: Partition Labels (NeetCode), #767: Reorganize String (Google), #860: Lemonade Change (Amazon), #948: Bag of Tokens (Google), #984: String Without AAA or BBB (NeetCode), #1005: Maximize Sum Of Array After K Negations (Amazon), #1029: Two City Scheduling (Google), #1353: Maximum Number of Events That Can Be Attended (NeetCode), #1402: Reducing Dishes (Amazon), #1647: Minimum Deletions to Make Character Frequencies Unique (Google), #1710: Maximum Units on a Truck (Amazon), #1792: Maximum Average Pass Ratio (NeetCode), #1899: Merge Triplets to Form Target Triplet (Google).
 - **Learn Intervals**: Study interval-based problems and patterns via NeetCode.
@@ -102,8 +112,10 @@ Below is a revised non-time-based roadmap for mastering Data Structures and Algo
 ---
 
 #### Node 8: God
+
 **Description**: Achieve mastery to solve any LeetCode problem, including contest-level and company-specific challenges.
 **Actionable Accomplishments**:
+
 - **Master Advanced Patterns**: Study niche topics (segment trees, Fenwick trees, monotonic stacks) via NeetCode or Competitive Programmer’s Handbook.
 - **Practice Advanced Problems** (30 problems): LeetCode #315: Count of Smaller Numbers After Self (Google), #410: Split Array Largest Sum (NeetCode), #843: Guess the Word (Amazon), #295: Find Median from Data Stream (Google), #480: Sliding Window Median (NeetCode), #218: The Skyline Problem (NeetCode), #239: Sliding Window Maximum (Amazon), #84: Largest Rectangle in Histogram (NeetCode), #699: Falling Squares (Google), #715: Range Module (Amazon), #828: Count Unique Characters of All Substrings of a Given String (NeetCode), #975: Odd Even Jump (Amazon), #987: Vertical Order Traversal of a Binary Tree (Google), #1032: Stream of Characters (Google), #1048: Longest String Chain (Amazon), #1099: Two Sum Less Than K (NeetCode), #1152: Analyze User Website Visit Pattern (Amazon), #1235: Maximum Profit in Job Scheduling (NeetCode), #1274: Number of Ships in a Rectangle (Google), #1326: Minimum Number of Taps to Open to Water a Garden (Amazon), #1383: Maximum Performance of a Team (NeetCode), #1405: Longest Happy String (Google), #1467: Probability of a Two Boxes Having The Same Number of Distinct Balls (Amazon), #1499: Max Value of Equation (NeetCode), #1515: Best Position for a Service Centre (Google), #1531: String Compression II (Amazon), #1547: Minimum Cost to Cut a Stick (NeetCode), #1579: Remove Max Number of Edges to Keep Graph Fully Traversable (Google), #1649: Create Sorted Array through Instructions (NeetCode), #1675: Minimize Deviation in Array (Amazon).
 - **LeetCode Contests**: Compete in 5+ weekly/biweekly contests, aiming for top 25% ranking.
@@ -116,6 +128,7 @@ Below is a revised non-time-based roadmap for mastering Data Structures and Algo
 ---
 
 ### Summary of Key Milestones
+
 - **Human**: Learned C++ and complexity (10 problems).
 - **Novice Coder**: Mastered arrays, strings, hashing (50 problems).
 - **Intermediate Coder**: Proficient in sliding window, stack, binary search (110 problems).
@@ -126,6 +139,7 @@ Below is a revised non-time-based roadmap for mastering Data Structures and Algo
 - **God**: Solves any problem, excels in contests/interviews (430+ problems).
 
 ### Notes
+
 - **Problem Selection**: All problems are NeetCode or company-tagged (Amazon, Google, Microsoft, Facebook) for relevance.
 - **Practice Strategy**: Solve 20 problems per topic to build pattern recognition, focusing on Easy, Medium, and Hard.
 - **Resources**: Use [learncpp.com](https://www.learncpp.com/) for C++, NeetCode for videos, GeeksforGeeks for theory.
